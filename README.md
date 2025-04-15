@@ -44,10 +44,6 @@ Order Date	              Purchase date (last 1 year)
 Payment Method	          Mode of payment (UPI, COD, Card, etc.)
 Customer Rating	          Product rating (1.0 - 5.0)
 
-## 📂 Dataset Source  
-The dataset used for this project is publicly available on Kaggle.  
-🔗 [Flipkart Sales Dataset on Kaggle](<https://www.kaggle.com/datasets/nitingoyal8/flipkart-sales-data>)  
-
 
 🚀 How to Use the Dashboard
 
