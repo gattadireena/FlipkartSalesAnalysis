@@ -62,3 +62,6 @@ Customer Rating	          Product rating (1.0 - 5.0)
 Tableau – Data Visualization & Dashboarding
 Excel/CSV – Data Processing
 GitHub – Project Hosting & Sharing
+
+Dashboard:
+<img width="1225" height="966" alt="image" src="https://github.com/user-attachments/assets/2ec7bdf6-1b33-45cf-8fc8-57992235a45b" />
